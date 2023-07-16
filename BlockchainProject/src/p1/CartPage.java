@@ -1,10 +1,11 @@
-package package1;
+package p1;
 import javax.swing.*;
 import java.awt.*;
 import java.util.ArrayList;
 import java.util.List;
 
 public class CartPage extends JFrame {
+	
     private List<Product> cartItems;
     private JPanel cartPanel;
     private JLabel totalPriceLabel;
