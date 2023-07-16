@@ -112,7 +112,7 @@ public class NFTPage extends JFrame implements ActionListener {
         // Add NFT buttons dynamically
         addNFTButton("Aquarelle", "Floor: 0.5 ETH", "src/p1/nftImage/aquarelle.jpg", nftPanel);
         addNFTButton("Balloons", "Floor: 1.0 ETH", "src/p1/nftImage/balloons.jpg", nftPanel);
-        addNFTButton("Cigarrette", "Floor: 0.2 ETH", "src/p1/nftImage/cigarette.jpg", nftPanel);
+        addNFTButton("Cigarette", "Floor: 0.2 ETH", "src/p1/nftImage/cigarette.jpg", nftPanel);
         addNFTButton("Clouds", "Floor: 0.3 ETH", "src/p1/nftImage/clouds.jpg", nftPanel);
         addNFTButton("Coin", "Floor: 0.5 ETH", "src/p1/nftImage/coin.jpg", nftPanel);
         addNFTButton("Colors", "Floor: 0.05 ETH", "src/p1/nftImage/colors.jpg", nftPanel);
